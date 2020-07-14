@@ -1,6 +1,6 @@
 ### About me
 
-I am a software engineer with 9 years of programming experience, primarily in the Java programming language. I also program in a number of different languages, to different degrees of familiarity. I currently work at [ClubObsidian](https://github.com/ClubObsidian/) and do contract work for a few different clients.
+I am a software engineer with 9 years of programming experience, primarily in the Java programming language. I also program in a number of different languages with different degrees of familiarity. I currently work at [ClubObsidian](https://github.com/ClubObsidian/) and do contract work for a few different clients.
 
 :zap: Languages
 * Java
