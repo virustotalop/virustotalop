@@ -11,7 +11,7 @@ I am a software engineer with 9 years of programming experience, primarily in th
 
 :computer: Freelance Work
 
-My going rate for freelance or contract work is $40 an hour. If you wish to commission freelance work please contact me on discord.
+If you wish to commission freelance work please contact me on discord.
 
 :mailbox: Contact me
 
