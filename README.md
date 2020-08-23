@@ -10,7 +10,6 @@ I am a software engineer with 9 years of programming experience, primarily in th
 * C#
 * PHP
 * Kotlin
-* x86 Assembly
 * C++
 
 :computer: Freelance Work
