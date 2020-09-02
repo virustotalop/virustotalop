@@ -3,14 +3,15 @@
 I am a software engineer with 9 years of programming experience, primarily in the Java programming language. I also program in a number of different language. I currently work at [ClubObsidian](https://github.com/ClubObsidian/) and do contract work for a few different clients.
 
 :zap: Languages
+* C#
+* C++
 * Java
 * Javascript
-* Typescript
-* Python
-* C#
-* PHP
 * Kotlin
-* C++
+* Python
+* PHP
+* Typescript
+* Kotlin
 * x86 Assembly
 
 :computer: Freelance Work
