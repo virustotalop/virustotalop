@@ -11,7 +11,6 @@ I am a software engineer with 9 years of programming experience, primarily in th
 * Python
 * PHP
 * Typescript
-* Kotlin
 * x86 Assembly
 
 ## :computer: Freelance Work
