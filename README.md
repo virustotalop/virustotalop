@@ -12,7 +12,7 @@ If you wish to commission freelance work please contact me on Discord.
 
 **Contact me**
 
-Discord - virustotal#5772
+Discord - virustotal#0001
 
 <!--
 **virustotalop/virustotalop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
