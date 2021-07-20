@@ -6,7 +6,6 @@ I am a software engineer with 10 years of programming experience, primarily in t
 <h2 align="center">Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=virustotalop&show_icons=true&count_private=true&hide_border=true"></img>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virustotalop&hide_border=true"></img>
 </p>
 
 <h2 align="center">Freelance Work</h2>
