@@ -15,3 +15,5 @@ If you wish to commission freelance work please contact me on Discord so that we
 <h2 align="center">Contact Me</h2>
 
 **Discord** - `virustotal#0001`
+
+**Twitter** - [@virustotalop](https://twitter.com/virustotalop)
