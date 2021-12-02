@@ -10,7 +10,7 @@ I am a software engineer with 10 years of programming experience, primarily in t
 
 <h2 align="center">Freelance Work</h2>
 
-If you wish to commission freelance work please contact me on Discord so that we can discuss rates and project details.
+If you wish to commission freelance work please contact me on Discord at `virustotal#0001` so that we can discuss rates and project details.
 
 <h2 align="center">Contact Me</h2>
 
