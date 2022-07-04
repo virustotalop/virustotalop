@@ -19,7 +19,7 @@
 
 If you wish to commission freelance work please contact me on Discord at `virustotal#0001` so that we can discuss rates and project details.
 
-<h3 align="center">:link: Contact Me</h2>
+<h3 align="center">:mailbox: Contact Me</h2>
 
 **Discord** - `virustotal#0001`
 
