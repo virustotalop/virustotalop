@@ -4,7 +4,7 @@
 * :telescope: I'm currently building scaleable infrastructure for Minecraft
 * :mortar_board: I'm going to graduate school to get my Master's Degree in Computer Science
 * :desktop_computer: I want to learn Rust and Elixir
-* :writing_hand: I occasionally [blog on my blog hosted here on Github.](https://virustotalop.github.io/#page=blog)
+* :writing_hand: I occasionally [blog on my blog hosted here on Github](https://virustotalop.github.io/#page=blog)
 * :keyboard: Programming languages I work with
   * **Java**
   * **Javascript**
