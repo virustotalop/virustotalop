@@ -8,7 +8,6 @@
 * :keyboard: Programming languages I work with regularly
   * **Java**
   * **Javascript**
-  * **PHP**
   * **Python**
 <h3 align="center">:chart: Stats</h2>
 <p align="center">
