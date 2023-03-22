@@ -11,7 +11,7 @@
   * **Python**
 <h3 align="center">:chart: Stats</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virustotalop&hide_border=true"></img>
+<img src="https://streak-stats.demolab.com/?user=virustotalop&hide_border=true"></img>
 </p>
 
 <h3 align="center">:fountain_pen: Freelance Work</h2>
