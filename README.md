@@ -17,9 +17,3 @@
 <h3 align="center">:fountain_pen: Freelance Work</h2>
 
 If you wish to commission freelance work please contact me on Discord at `virustotal#0001` so that we can discuss rates and project details.
-
-<h3 align="center">:mailbox: Contact Me</h2>
-
-**Discord** - `virustotal#0001`
-
-**Twitter** - [@virustotalop](https://twitter.com/virustotalop)
