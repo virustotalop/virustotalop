@@ -7,7 +7,7 @@
 * :writing_hand: I occasionally [blog on my blog hosted here on Github](https://virustotalop.github.io/#page=blog)
 * :keyboard: Programming languages I work with regularly
   * **Java**
-  * **Javascript**
+  * **JavaScript**
   * **Python**
 <h3 align="center">:chart: Stats</h2>
 <p align="center">
