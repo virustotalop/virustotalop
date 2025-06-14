@@ -2,12 +2,6 @@
 
 :wave: My name is Steven and I am a freelance software engineer with over 13 years of programming experience. You can find some of my public projects here on my profile, at [ClubObsidian](https://github.com/ClubObsidian/) and at [RavenLab.](https://github.com/ravenlab)
 
-<h3 align="center">💼 Work Experience</h2>
-
-* Freelance work for a Minecraft Esports client | 2020 - current
-* Various freelance work | 2016 - current
-* ClubObsidian | 2013 - 2021
-
 <h3 align="center">:rocket: Programming Interests</h2>
 
 * :telescope: I'm currently building scaleable infrastructure for Minecraft
