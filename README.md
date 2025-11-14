@@ -21,5 +21,4 @@
 <p align="center">
 <a href="https://github.com/virustotalop" target="blank"><img align="center" src="https://raw.githubusercontent.com/virustotalop/virustotalop/refs/heads/master/github.svg" alt="virustotalop" height="30" width="40" /></a>
 <a href="https://discord.gg/26uQhdQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/virustotalop/virustotalop/refs/heads/master/discord.svg" alt="26uQhdQQ" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/virustotalop.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/virustotalop/virustotalop/refs/heads/master/bluesky.svg" alt="virustotalop.bsky.social" height="30" width="40" /></a> 
 </p>
