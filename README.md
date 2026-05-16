@@ -11,6 +11,7 @@
 * :keyboard: Programming languages I work with regularly
   * **Java**
   * **JavaScript**
+  * **TypeScript**
   * **Python**
 <h3 align="center">:chart: Stats</h2>
 <p align="center">
