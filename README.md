@@ -2,8 +2,6 @@
 
 :wave: My name is Steven and I am a freelance software engineer with over 13 years of programming experience. You can find some of my public projects here on my profile, at [ClubObsidian](https://github.com/ClubObsidian/) and at [RavenLab.](https://github.com/ravenlab)
 
-:writing_hand: I occasionally [blog on my blog hosted here on Github.](https://virustotalop.github.io/#page=blog)
-
 <h3 align="center">:rocket: Programming Interests</h2>
 
 * :telescope: I'm currently building scaleable infrastructure for Minecraft
