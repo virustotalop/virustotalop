@@ -5,7 +5,6 @@
 <h3 align="center">:rocket: Programming Interests</h2>
 
 * :telescope: I'm currently building scaleable infrastructure for Minecraft
-* :desktop_computer: I want to learn Rust and Elixir
 * :keyboard: Programming languages I work with regularly
   * **Java**
   * **JavaScript**
