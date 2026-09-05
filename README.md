@@ -1,10 +1,9 @@
 <h2 align="center">:globe_with_meridians: Hello World!</h1>
 
-:wave: My name is Steven and I am a freelance software engineer with over 13 years of programming experience. You can find some of my public projects here on my profile, at [ClubObsidian](https://github.com/ClubObsidian/) and at [RavenLab.](https://github.com/ravenlab)
+:wave: My name is Steven and I am a software engineer with over 13 years of programming experience. You can find some of my public projects here on my profile, at [ClubObsidian](https://github.com/ClubObsidian/) and at [RavenLab.](https://github.com/ravenlab)
 
 <h3 align="center">:rocket: Programming Interests</h2>
 
-* :telescope: I'm currently building scaleable infrastructure for Minecraft
 * :keyboard: Programming languages I work with regularly
   * **Java**
   * **JavaScript**
